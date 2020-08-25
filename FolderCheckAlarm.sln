@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderCheckAlarm", "FolderCheckAlarm\FolderCheckAlarm.csproj", "{3BAF87F0-4812-40B2-80A3-7EB4711F83EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BAF87F0-4812-40B2-80A3-7EB4711F83EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BAF87F0-4812-40B2-80A3-7EB4711F83EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BAF87F0-4812-40B2-80A3-7EB4711F83EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BAF87F0-4812-40B2-80A3-7EB4711F83EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A8F4C7A-8F8A-4886-9CE9-819ADA29858E}
+	EndGlobalSection
+EndGlobal
