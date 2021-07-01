@@ -71,7 +71,12 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DirWatcher.cs" />
+    <Compile Include="FileMonitor.cs" />
+    <Compile Include="FileMonitoringObject.cs" />
+    <Compile Include="FileSystemSafeWatcher.cs" />
     <Compile Include="LogWriter.cs" />
+    <Compile Include="Message.cs" />
     <Compile Include="ProjectInstaller.cs">
       <SubType>Component</SubType>
     </Compile>
